@@ -30,7 +30,5 @@
   "include": [
       "src",
       "src/declaration.d.ts",
-  ],
-  "references": [{"path": "./tsconfig.node.json"}
   ]
 }
